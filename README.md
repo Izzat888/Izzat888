@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**Izzat888/Izzat888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Technologies & Skills
+🎨 Frontend
 
-Here are some ideas to get you started:
+🌐 HTML5
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 CSS3 / SCSS
+
+⚡ JavaScript (ES6+)
+
+⚛️ React.js
+
+📱 Responsive Design
+
+🔧 Tools
+
+🧩 Git & GitHub
+
+🎨 Figma
+
+💻 VS Code
+
+📚 Currently learning
+
+🚀 Advanced React
+
+🔌 API Integration
