@@ -1,16 +1,33 @@
-## Hi there 👋
+# Omega - Custom Landing Page Builder 🚀
 
-<!--
-**Izzat888/Izzat888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Omega** is a modern front-end project that allows you to create professional and interactive landing pages without writing a single line of code.  
+With multiple unique blocks, you can quickly build fully responsive, visually appealing pages.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features 📌
+
+- ✅ **Drag & Drop ready sections** – customize pages effortlessly
+- ✅ **Fully responsive design** – looks perfect on all devices
+- ✅ **Animated counters & gradient effects** – visually engaging pages
+- ✅ **Easy deployment** – deploy with one click using Vercel
+- ✅ **Multilingual support** – EN, UZ, RU languages
+
+---
+
+## Tech Stack 🛠
+
+| Frontend | Styling | Deployment | Animations |
+|----------|--------|-----------|------------|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![Animate.css](https://img.shields.io/badge/Animate.css-000000?style=for-the-badge&logo=css3&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white) | ![CSS Gradients](https://img.shields.io/badge/Gradients-FF7F50?style=for-the-badge&logoColor=white) |
+
+---
+
+## Getting Started 🚀
+
+Clone the repository and start building your custom landing page:
+
+```bash
+git clone https://github.com/Izzat888/Omegee.git
+cd Omegee
