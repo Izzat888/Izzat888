@@ -15,7 +15,7 @@ With multiple unique blocks, you can quickly build fully responsive, visually ap
 
 ---
 
-![Coding GIF](https://giphy.com/gifs/startupweekendsingapore-developer-entrepreneurs-swsg-4KzpjLvJjJknJ5Xuak)
+![Coding GIF](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
 
 ## Tech Stack 🛠
 
