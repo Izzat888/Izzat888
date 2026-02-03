@@ -15,6 +15,8 @@ With multiple unique blocks, you can quickly build fully responsive, visually ap
 
 ---
 
+![Coding GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+
 ## Tech Stack 🛠
 
 | Frontend | Styling | Deployment | Animations |
