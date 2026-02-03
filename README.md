@@ -15,7 +15,7 @@ With multiple unique blocks, you can quickly build fully responsive, visually ap
 
 ---
 
-![Coding GIF width="420" height="300"](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif )
+![Coding GIF width="420" height="300"](https://raw.githubusercontent.com/devSouvik/devSouvik/420/300/master/gif3.gif )
 
 
 ## Tech Stack 🛠
